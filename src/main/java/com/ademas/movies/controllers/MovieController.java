@@ -27,7 +27,7 @@ public class MovieController {
 	private MovieRepository movieRepository;
 	
 	/*
-	 * Listar todos los elementos
+	 * Listar todos los elementos a conseguir
 	 */
 	@CrossOrigin
 	@GetMapping("/all")
